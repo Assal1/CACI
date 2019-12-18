@@ -1,0 +1,17 @@
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI.Convertors.Tests.deps.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI.Convertors.Tests.runtimeconfig.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI.Convertors.Tests.runtimeconfig.dev.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI.Convertors.Tests.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI.Convertors.Tests.pdb
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI-Lib.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\bin\Debug\netcoreapp2.2\CACI-Lib.pdb
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.csprojAssemblyReference.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.csproj.CoreCompileInputs.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.AssemblyInfoInputs.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.AssemblyInfo.cs
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.csproj.CopyComplete
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI.Convertors.Tests\obj\Debug\netcoreapp2.2\CACI.Convertors.Tests.pdb

@@ -1,0 +1,14 @@
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.deps.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.runtimeconfig.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.runtimeconfig.dev.json
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.pdb
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI-Lib.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\bin\Debug\netcoreapp2.2\CACI-Lib.pdb
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.AssemblyInfo.cs
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.csproj.CopyComplete
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.dll
+C:\Users\assal\OneDrive\Desktop\CACI\CACI-BinaryStringToIntConvertorApplication\CACI-BinaryStringToIntConvertorApplication\obj\Debug\netcoreapp2.2\CACI.Convertor.ConsoleApp.pdb
